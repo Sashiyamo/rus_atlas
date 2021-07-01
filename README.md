@@ -11,8 +11,8 @@ Russification for Apache Atlas web UI
 ## Как подключить
 
 ### Через Tampermonkey
-Файл user_rus.js можно скопировать в любой плагин запуска юзерскриптов, например в моем случае это Tampermonkey
-Сохраняе его там
+Файл user_rus.js можно скопировать в любой плагин запуска юзерскриптов, например в моем случае это Tampermonkey \n
+Сохраняем его там
 ![image](https://user-images.githubusercontent.com/62176228/124102762-5193e400-da69-11eb-925d-677fe41d0a88.png)
 
 Включаем плагин
